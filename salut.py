@@ -1,1 +1,1 @@
-print ("Salut, ce sont mes devoirs")
+prnt ("Salut, ce sont mes devoirs")
